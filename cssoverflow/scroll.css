@@ -1,0 +1,8 @@
+#para{background-color: aqua;
+
+padding: 15px;
+height:200px ;
+width: 50%;
+border: 2px solid green;
+overflow-x:scroll;
+overflow-y: scroll;}

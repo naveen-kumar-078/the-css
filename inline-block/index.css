@@ -1,0 +1,20 @@
+span.a{display: inline; /* the default for span */
+padding: 5px;
+  border: 1px solid blue;  
+  background-color: yellow;}
+
+  span.b{display: inline-block;
+background-color: aqua;
+border: 2px solid green;
+height: 50px;
+width: 100px;
+padding: 20px;
+}
+
+span.c{display: block;
+background-color: crimson;
+border: 2px solid green;
+padding: 40px;
+width: 40px;
+
+}

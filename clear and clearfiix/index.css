@@ -1,0 +1,13 @@
+.div1{float: left;
+padding: 5px;
+border: 3px solid green;}
+
+.div2{padding:20px;
+border: 3px solid rgb(128, 0, 21);}
+
+.div3{border: 2px solid green;
+float: left;}
+
+.div4{clear:both;
+border: 2px solid red;
+padding: 5px;}
