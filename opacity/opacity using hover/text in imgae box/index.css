@@ -1,0 +1,13 @@
+div.background{background: url("giphy.jpg") repeat;
+color: rgb(173, 219, 7);
+padding: 20px;
+text-align: center;
+margin: auto;}
+
+div.transparent{background-color: rgba(161, 161, 193, 0.662);
+margin: 20px;
+padding: 10px;
+border: 2px solid red;}
+
+P{opacity: 1;
+font-weight: bold;}
