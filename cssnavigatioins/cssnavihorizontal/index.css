@@ -1,0 +1,32 @@
+body{margin: 0;}
+
+
+ul{
+    margin: 0px;
+    list-style-type: none;
+    overflow: hidden;
+    background-color: rgb(232, 92, 92);
+    padding: 10px;
+    top: 0px;
+    position: fixed;
+    width: 100%;
+}
+li{float: left;
+border-right: 2px solid white;}
+
+li a{display: block;
+padding: 10px;
+text-decoration: none;
+color: rgb(229, 222, 222);
+
+}
+
+li:last-child{border-right: none;}
+
+li a:hover:not(.class){background-color: rgb(94, 120, 120);}
+
+.class{background-color: greenyellow;
+color: black;}
+
+
+
