@@ -1,0 +1,25 @@
+input[type=text],select{
+    width:100% ;
+padding: 20px 20px;
+margin: 8px 2px;
+box-sizing: border-box;
+border-radius: 3px;
+border: 2px solid rgb(129, 38, 38);
+display: inline-block;
+
+}
+
+input[type=submit]{background-color: rgb(212, 19, 19);;
+width: 100%;
+padding: 16px 2px;
+border: none;
+border-radius: 2px;
+margin: 2px;
+color: rgb(224, 226, 228);
+cursor: pointer;}
+input[type=submit]:hover{background-color: burlywood;}
+
+div{background-color: rgb(66, 111, 155);
+padding: 20PX;
+border-radius: 20px ;
+color: antiquewhite;}

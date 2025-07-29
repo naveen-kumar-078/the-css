@@ -1,0 +1,9 @@
+select{width: 25%;
+padding: 10px 20px;
+border: none;
+background-color: beige;
+
+border-radius: 2px;
+}
+
+form{border-radius: 20px;}
