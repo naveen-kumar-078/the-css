@@ -1,0 +1,19 @@
+.header{background-color:rgb(214, 227, 227) ;
+margin-top: 0;
+padding: 16px;
+text-align: center;
+border: 2px solid;}
+
+body{
+    margin: 0px;
+}
+
+div a{text-decoration: none;
+padding: 10px 16px;
+color: aliceblue;}
+
+div{background-color: rgb(11, 11, 11);
+padding: 20px;}
+
+ div a:hover{background-color: aqua;
+color:black}

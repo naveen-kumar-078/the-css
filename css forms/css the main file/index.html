@@ -4,23 +4,54 @@
         <link rel="stylesheet" href="index.css">
     </head>
     <body>
-        <div>
+        <div class="container">
             <form>
+                <div class="row">
+                <div class="col-1">
                 <label for="FIRSTNAME">FIRSTNAME</label>
+                </div>
+                <div class="col-2">
                 <input type="text" id="fnmae" name="fname" placeholder="firstname..">
-                <label for="FIRSTNAME">lastname</label>
+                </div>
+                </div>
+
+                <div class="row">
+                <div class="col-1">
+                <label for="Lastname">LASTNAME</label>
+                </div>
+                <div class="col-2">
                 <input type="text" id="lname" name="lname" placeholder="last name..">
-                
+                </div>
+                </div>
+
+
+                <div class="row">
+                <div class="col-1">
                 <label for="COUNTRY">COUNTRY</label>
+                </div>
+                <div class="col-2">
                 <select name="country" id="country">
                 <option value="aus">austrlia</option>
                 <option value="can">canada</option>
                 <option value="ind">INDIA</option>
                 </select>
+                </div>
+                </div>
 
-                <label for="subject">subject</label>
-                <textarea id="subject" name="subject" placeholder="write something" style="height: 100px;"></textarea>
-                <input type="submit" value="submit">
+            <div class="row">
+                <div class="col-1">
+                <label for="subject">SUBJECT</label>
+                </div>
+                <div class="col-2">
+                <textarea id="subject" name="subject" placeholder="write something" style="height:300px ;"></textarea>
+                </div>
+            </div>
+
+
+
+                <div class="row">
+               <input type="submit" value="submit">
+                </div>
              </form>
 
 
